@@ -1,13 +1,13 @@
 {
   "themes": {
     "howls": {
-      "colors": "https://raw.githubusercontent.com/kieran/ghypr-assets/main/colors/howls.conf",
+      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.conf",
     },
     "laputa": {
-      "colors": "https://raw.githubusercontent.com/kieran/ghypr-assets/main/colors/laputa.conf",
+      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.conf",
     },
     "spirited": {
-      "colors": "https://raw.githubusercontent.com/kieran/ghypr-assets/main/colors/spirited-away.conf",
+      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited-away.conf",
     }
   }
 }
