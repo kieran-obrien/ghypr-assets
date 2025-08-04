@@ -1,0 +1,10 @@
+:root {
+  --base0: #1e1c2c;      /* deep midnight */
+  --base1: #2f2b4a;      /* dark violet */
+  --muted: #a6a3ba;      /* dusty lavender */
+  --accent1: #ffb347;    /* golden trim (Howl’s coat) */
+  --accent2: #f28482;    /* soft rose (Sophie) */
+  --accent3: #9ae1e2;    /* pale cyan (Howl’s hair glow) */
+  --text: #f7f6f2;       /* warm white */
+  --highlight: #4c437b;  /* muted purple highlight */
+}
