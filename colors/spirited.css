@@ -1,0 +1,10 @@
+:root {
+  --base0: #1a1c1a;      /* dark forest green (night river) */
+  --base1: #312f2e;      /* soot‑dark neutral */
+  --muted: #6baf92;      /* river spirit green */
+  --accent1: #a63232;    /* bathhouse red */
+  --accent2: #f4c1b2;    /* Chihiro soft pink */
+  --accent3: #5ba0a7;    /* Haku’s river spirit blue */
+  --text: #f7f3e8;       /* paper spirit white */
+  --highlight: #d1a855;  /* gold token */
+}
