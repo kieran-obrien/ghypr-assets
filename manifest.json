@@ -1,13 +1,16 @@
 {
   "themes": {
     "howls": {
-      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.conf"
+      "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.conf",
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.css"
     },
     "laputa": {
-      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.conf"
+      "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.conf",
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.css"
     },
     "spirited": {
-      "colors": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.conf"
+      "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.conf",
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.css"
     }
   }
 }
