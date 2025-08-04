@@ -1,0 +1,10 @@
+:root {
+  --base0: #0b2e26;      /* dark teal (Laputa’s shadows) */
+  --base1: #184f40;      /* deep forest green */
+  --muted: #7fa3a3;      /* faded green‑gray */
+  --accent1: #d9b44a;    /* robot’s golden eye glow */
+  --accent2: #e07b39;    /* rusty orange (Laputa metal) */
+  --accent3: #8cc2ff;    /* sky blue */
+  --text: #f5f4e1;       /* cream white */
+  --highlight: #316b5f;  /* weathered turquoise highlight */
+}
