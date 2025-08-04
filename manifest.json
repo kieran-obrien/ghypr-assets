@@ -2,15 +2,18 @@
   "themes": {
     "howls": {
       "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.conf",
-      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.css"
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/howls.css",
+      "wallpaper": "https://www.ghibli.jp/gallery/howl011.jpg"
     },
     "laputa": {
       "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.conf",
-      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.css"
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/laputa.css",
+      "wallpaper": "https://www.ghibli.jp/gallery/laputa040.jpg"
     },
     "spirited": {
       "colors_conf": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.conf",
-      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.css"
+      "colors_css": "https://raw.githubusercontent.com/kieran-obrien/ghypr-assets/main/colors/spirited.css",
+      "wallpaper": "https://www.ghibli.jp/gallery/chihiro032.jpg"
     },
     "testkey": {
     }
